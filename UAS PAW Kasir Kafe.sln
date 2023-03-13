@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UAS PAW Kasir Kafe", "UAS PAW Kasir Kafe\UAS PAW Kasir Kafe.csproj", "{ED498EC8-6935-4469-A04C-A19AD26E0A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAS PAW Kasir KafeTests", "UAS PAW Kasir KafeTests\UAS PAW Kasir KafeTests.csproj", "{37869424-A82D-4962-B98A-83F2A8BACD3F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KasirKafe SetUp", "KasirKafe SetUp\KasirKafe SetUp.vdproj", "{1A028C34-BC49-4983-B957-DDFA81E69155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED498EC8-6935-4469-A04C-A19AD26E0A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED498EC8-6935-4469-A04C-A19AD26E0A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED498EC8-6935-4469-A04C-A19AD26E0A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED498EC8-6935-4469-A04C-A19AD26E0A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37869424-A82D-4962-B98A-83F2A8BACD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37869424-A82D-4962-B98A-83F2A8BACD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37869424-A82D-4962-B98A-83F2A8BACD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37869424-A82D-4962-B98A-83F2A8BACD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A028C34-BC49-4983-B957-DDFA81E69155}.Debug|Any CPU.ActiveCfg = Debug
+		{1A028C34-BC49-4983-B957-DDFA81E69155}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273BFA00-92DE-4EA3-A551-9ECC9455DA07}
+	EndGlobalSection
+EndGlobal
